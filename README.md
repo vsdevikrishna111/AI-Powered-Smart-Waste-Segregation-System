@@ -103,6 +103,12 @@ The system captures waste images through a camera, classifies them using a Tenso
 
 ---
 
+## Video
+
+https://github.com/user-attachments/assets/a8f5193d-c328-4f3b-bcff-56602b5ff8eb
+
+---
+
 ## Author
 
 V S DeviKrishna
